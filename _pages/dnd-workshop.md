@@ -5,9 +5,9 @@ sitemap: false
 permalink: /dnd-workshop.html
 ---
 
-# Character Creation
+## Character Creation
 
-## Summary
+### Summary
 
 You'll need to figure out:
 
@@ -21,7 +21,7 @@ You'll need to figure out:
     - Point buy
     - ["Instant" ASIs](#stats)
 
-## Level
+### Level
 
 Start anywhere in levels 1-3, whatever makes most sense with your backstory.
 If you pick a lower level you'll gain two levels at each milestone until you're
@@ -35,7 +35,7 @@ caught up. So:
 
 We won't be going above level 12 to 13, tops.
 
-## Stats
+### Stats
 
 Standard point buy. In addition, you can immediately take all ASIs for
 your class that occur after level 12 (fighters get 3, everyone else gets 2).
@@ -43,7 +43,7 @@ If you're multiclassing, you get all ASIs that happen after character level 12.
 
 At most one of these "instant" ASIs can be used to take a feat.
 
-## Races
+### Races
 
 Variant human and custom lineage are not allowed - a feat at character creation
 is only doable via the instant ASIs above.
@@ -53,7 +53,7 @@ to races made in Monsters of the Multiverse (see
 [this thread](https://old.reddit.com/r/dndleaks/comments/s3lc5c/compilation_of_race_changes_from_from_monsters_of/)
 until WotC releases the book) are in play.
 
-### Additional Race Rules
+#### Additional Race Rules
 
 Most of these are from MotM.
 
@@ -74,7 +74,7 @@ Most of these are from MotM.
 - **Magical Resistance.** Traits that gave advantage on saving throws against
   spells and other magical effects now only apply to spells.
 
-## Backgrounds
+### Backgrounds
 
 All officially released material is fine, other than backgrounds from Strixhaven
 or Ravnica that grant additional spells.
