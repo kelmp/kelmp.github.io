@@ -16,7 +16,7 @@
 title: Adrian Wang
 email: adrianuuang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a NETS major at UPenn, where I write questionable code, play trumpet, and
+  I write questionable code, play trumpet, and sometimes
   run D&D sessions.
 twitter_username: adrianuuang
 github_username: kelmp
@@ -70,7 +70,7 @@ author:
       url: "https://github.com/kelmp"
     - label: "Resume"
       icon: "far fa-fw fa-file"
-      url: "/assets/Adrian-Wang-Resume-post-22sp.pdf"
+      url: "/assets/Adrian-Wang-Resume.pdf"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/kelmp"
