@@ -5,6 +5,6 @@ targetname: more highlights
 targettitle:
 time: 3
 sitemap: false
-permalink: /forehead.html
+permalink: /more-forehead.html
 ---
 
