@@ -24,6 +24,7 @@
     <title>{{ title }}</title>
 </head>
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached masthead.html %}
     <div class="initial-content">
         <h1>{{ title }}</h1>
    
